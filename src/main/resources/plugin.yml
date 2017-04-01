@@ -1,0 +1,17 @@
+name: HideThem
+version: 1
+author: dordsor21
+description: HideThem Plugin for MCBCON
+main: me.dordsor21.HideThem.Main
+commands:
+  hthide:
+    description: Hide players
+    aliases: hth
+  htshow:
+    description: Show players
+    aliases: hts
+  htfriend:
+    description: Add or remove friends
+    aliases: htf
+  hthelp:
+    description: Help for HideThem plugin
